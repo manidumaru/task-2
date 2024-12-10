@@ -7,6 +7,7 @@ npm i -g sass
 
 2. Create the files and folders like in the repository except style.css and styles.css.map
    Short description about the folder structure:
+   
    - ***Base Folder***
      In this folder, we usually define fundamental style like global typography, themes, variables, resets like setting margin and padding to 0.
      
